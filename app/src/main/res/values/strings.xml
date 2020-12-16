@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">HandlerThread</string>
+    <string name="app_name">RX Gallery hw</string>
+    <string name="btnStop">Stop</string>
+    <string name="btnStart">Get random images</string>
 </resources>
